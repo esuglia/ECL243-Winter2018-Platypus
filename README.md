@@ -1,6 +1,6 @@
 # Welcome to the `Platypus` project
 
-This is the repo for our group project trying to recreate some of the analyses from Branco et al. 2016 ("**Continental-level population differentiation and environmental adaptation in the mushroom _Suillus brevipes_**"). The original manuscript can be found [here](http://onlinelibrary.wiley.com/doi/10.1111/mec.13892/full).
+This is the repo for our group project trying to recreate some of the analyses from Branco et al. 2016 ("**Continental-level population differentiation and environmental adaptation in the mushroom _Suillus brevipes_**") for our Winter 2018 Ecological Genomics (ECL243) class, taught by Jeffrey Ross-Ibarra and Andrew Whitehead. The original manuscript can be found [here](http://onlinelibrary.wiley.com/doi/10.1111/mec.13892/full).
 
 ## Contributers
 Hannah Nelson, Emily Longman, Elena Suglia
