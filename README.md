@@ -9,9 +9,9 @@ Hannah Nelson, Emily Longman, Elena Suglia
 Below is a brief introduction to the directory system and contents of this repo.
 
 1. **README.md**: describes the contents of the repo
-2. **Nelson_Longman_Suglia-2018.md**: provides an overview of the analyses we performed and the results (figures, tables).
-3. **Data**: here we store (small) raw data from the original paper, link provided for larger raw data file
+2. **Nelson_Longman_Suglia-2018.md**: provides an overview of the analyses we performed and the results (figures, tables)
+3. **Data**: here we store the raw data from the original paper
 4. **Cache**: here we store some of the (small) intermediate data files generated during our analyses 
-5. **Code**: contains the code (R scripts and bash scripts) and to reproduce our analyses
+5. **Code**: contains the code (R scripts and bash scripts) to reproduce our analyses
 6. **Figures**: contains the figures we produced for our project
 7. **Tables**: contains the tables we produced for our project
