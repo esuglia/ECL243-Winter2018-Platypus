@@ -51,21 +51,7 @@ less -S All_Suillus_OUTGROUP.vcf
 	#Minnesota (MN)
 	vcftools --vcf MN.recode.vcf --site-pi --out nucleotide_diversity_MN
 
-#calculate heterozygosity #INCORRECT METHOD
-
-	#California coast (CAc)
-	vcftools --vcf CAc.recode.vcf --het --out heterozygosity_CAc
-
-	#California mountain (CAm)
-	vcftools --vcf CAm.recode.vcf --het --out heterozygosity_CAm
-
-	#Colorado (CO)
-	vcftools --vcf CO.recode.vcf --het --out heterozygosity_CO
-
-	#Minnesota (MN)
-	vcftools --vcf MN.recode.vcf --het --out heterozygosity_MN
-
-#calculate heterozygosity #CORRECT METHOD
+#calculate heterozygosity 
 
 	#convert vcf files to ped files
 	vcftools --vcf CAc.recode.vcf --out CAc --plink
