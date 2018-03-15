@@ -12,7 +12,7 @@ Table 1: Average per-SNP nucleotide diversity, Watterson theta, and heterozygosi
 
 Table 2: Pairwise Fst across _Suillus brevipes_ populations. Corresponds to Table 2 in the original paper.
 
-Scripts necessary to reproduce this table:
+Scripts necessary to reproduce these tables:
 1. **table.sh**: subsets larger VCF file into individual VCF files for each population using VCFtools, and then calculates nucleotide diversity and pairwise Fst using VCFtools, and calculates heterozygosity using PLINK (after converting VCF to PLINK files using VCFTools)
 2. **tables.R**: calculates per-SNP nucleotide diversity, Watterson theta, and heterozygosity using files created by above script, creates and exports both tables
 
