@@ -1,5 +1,5 @@
 # Overview of `Platypus` project
-The following is an overview of the analyses we performed for this project
+The following is an overview of the analyses we performed for this project.
 
 ## Links to Tables and Figures
 * [Table 1](https://github.com/hrnelson/ECL243-Winter2018-Platypus/blob/master/Tables/table_1.csv)
