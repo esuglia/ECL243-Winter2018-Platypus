@@ -1,4 +1,4 @@
-# Overview of `Platypus` project
+# Overview of the `Platypus` project
 The following is an overview of the analyses we performed for this project.
 
 ## Links to Tables and Figures
